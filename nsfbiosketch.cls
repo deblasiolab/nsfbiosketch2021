@@ -1,5 +1,7 @@
-%% nihbiosketch.cls 
-%% Copyright 2016 Paul M. Magwene
+%% nsfbiosketch.cls 
+%% Copyright 2016 Dan DeBlasio
+%
+% This is an extension of Paul M. Magwene's nihbiosketch.cls and is extended under the LaTeX Project Public License, version 1.3
 %
 % This work may be distributed and/or modified under the
 % conditions of the LaTeX Project Public License, either version 1.3
@@ -17,7 +19,7 @@
 
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{nihbiosketch}[2016/01/22 NIH Biosketch Class]
+\ProvidesClass{nsfbiosketch}[2020 NSF Biosketch Class]
 
 %------------------------------------------------------------------------------
 
@@ -46,6 +48,11 @@
 \lfoot{BS-\thepage{} of 2}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
+
+
+\RequirePackage{xspace}
+\RequirePackage[resetlabels]{multibib}
+
 
 \RequirePackage{enumitem}
 \setlist[enumerate,2]{label=\alph*.,itemsep=0pt,parsep=1pt,partopsep=1pt}
