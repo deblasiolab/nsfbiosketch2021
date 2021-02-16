@@ -1,7 +1,9 @@
 %% nsfbiosketch.cls 
 %% Copyright 2016 Dan DeBlasio
 %
-% This is an extension of Paul M. Magwene's nihbiosketch.cls and is extended under the LaTeX Project Public License, version 1.3
+% This is an extension of Paul M. Magwene's nihbiosketch.cls and is 
+% extended under the LaTeX Project Public License, version 1.3
+% A copy of the original work can be foun in the nihbiosketch folder
 %
 % This work may be distributed and/or modified under the
 % conditions of the LaTeX Project Public License, either version 1.3
