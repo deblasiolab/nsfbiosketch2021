@@ -7,11 +7,13 @@ This template uses some specialized packages including `multibib`
 
 ## compilation
 
-``pdflatex deblasio_nsf
+```
+pdflatex deblasio_nsf
 bibtex o.aux
 bibtex r.aux 
 pdflatex deblasio_nsf
-pdflatex deblasio_nsf``
+pdflatex deblasio_nsf
+```
 
 This template is still in development. 
 
