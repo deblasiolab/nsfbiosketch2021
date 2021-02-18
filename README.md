@@ -1,4 +1,6 @@
-# NSF Biosketch 2020 Format
+# WILL NOT BE ACCEPTED BY RESEARCH.GOV
+
+## NSF Biosketch 2020 Format
 This is a latex template for the new-format NSF biosketch. This is not an *approved* format, but it is close to indistinguishable from the ScienCV format. 
 
 I make no guaruntees on its accuracy or acceptance to the NSF. 
